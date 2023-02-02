@@ -1,5 +1,3 @@
-![main](https://user-images.githubusercontent.com/2194433/188439641-87aaded7-bb33-406b-a489-e2a97a3bfa50.png)
-
 ## Setup
 
 開発環境は以下の順序でコマンドを実行してください。
